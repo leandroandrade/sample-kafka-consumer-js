@@ -42,4 +42,4 @@ npm start
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](https://github.com/leandroandrade/sample-kafka-consumer-js-example/tree/main/LICENSE) para obter detalhes
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](https://github.com/leandroandrade/sample-kafka-consumer-js/tree/main/LICENSE) para obter detalhes
